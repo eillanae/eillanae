@@ -1,16 +1,14 @@
-## Hi there 👋
+<p align="center"><img src="estrellas_brillo.svg" alt="Estrellas brillando" width="100%"></p>
+# Hola, soy Esther 👋
 
-<!--
-**eillanae/eillanae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Profesora de **Medios Informáticos** en la Escuela de Arte de Zaragoza.
+Enseño gráfica interactiva a estudiantes de diseño.
 
-Here are some ideas to get you started:
+### En clase trabajamos
+- 🧩 Diseño de interfaces (UI) y experiencia de usuario (UX)
+- 📱 Prototipado interactivo en Figma
+- 💻 Maquetación web con HTML, CSS y JavaScript
+- 🌐 Creación de sitios con WordPress
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Me interesa explorar
+Animación e interacción · Código creativo (p5.js) · Educación
