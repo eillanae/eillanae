@@ -1,5 +1,5 @@
 
-# Hola, soy Esther 🖖🏼
+# Hola, soy Esther 🖖🏻
 
 Profesora de **Medios Informáticos** en la Escuela de Arte de Zaragoza.
 Enseño gráfica interactiva a estudiantes de diseño.
