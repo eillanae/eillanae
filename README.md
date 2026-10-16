@@ -1,4 +1,4 @@
-<p align="center"><img src="estrellas_brillo.svg" alt="Estrellas brillando" width="100%"></p>
+<p align="center"><img src="animation.svg" alt="Estrellas brillando" width="100%"></p>
 # Hola, soy Esther 👋
 
 Profesora de **Medios Informáticos** en la Escuela de Arte de Zaragoza.
